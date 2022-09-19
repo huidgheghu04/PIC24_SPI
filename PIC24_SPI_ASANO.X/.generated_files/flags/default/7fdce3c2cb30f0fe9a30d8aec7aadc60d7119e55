@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off   C:\Users\asano\OneDrive - 東京理科大学 (1)\ドキュメント\デスクトップ\低消費電力カメラM1\ソフトウェア\PaleBlueCam_011_16Bit_Thum_asano.X\main.c
